@@ -1,0 +1,75 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swp
+*~.nib
+*.lock
+
+
+# Generated files in the Android project
+proj.android/libs/*
+proj.android/obj/*
+proj.android/build/
+proj.android/gen/*
+proj.android/bin/*
+proj.android/assets/*
+
+
+# Xcode specific
+build/*
+*.pbxuser
+*.mode2v3
+*.mode1v3
+*.perspective
+*.perspectivev3
+*~.nib
+
+
+# Ignore private workspace stuff added by Xcode4
+xcuserdata
+project.xcworkspace
+
+
+# Generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+
+# Fortran module files
+*.mod
+
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Others
+*.apk
+*.keystore
