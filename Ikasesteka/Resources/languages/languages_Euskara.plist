@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GamePlay</key>
+	<dict>
+		<key>category-title</key>
+		<string>Gaia</string>
+		<key>level-title</key>
+		<string>Maila</string>
+		<key>points-title</key>
+		<string>Puntuak</string>
+	</dict>
+	<key>Lose</key>
+	<dict>
+		<key>title</key>
+		<string>Denbora bukatu da</string>
+		<key>points-title</key>
+		<string>Puntuazioa</string>
+		<key>points-value</key>
+		<string>puntu</string>
+		<key>reset</key>
+		<string>Berriro jolastu</string>
+	</dict>
+	<key>Win</key>
+	<dict>
+		<key>resume</key>
+		<string>Jarraitu</string>
+	</dict>
+	<key>Pause</key>
+	<dict>
+		<key>resume</key>
+		<string>Jarraitu</string>
+	</dict>
+	<key>Level</key>
+	<dict>
+		<key>hard</key>
+		<string>Zaila</string>
+		<key>medium</key>
+		<string>Normala</string>
+		<key>easy</key>
+		<string>Erraza</string>
+		<key>title</key>
+		<string>Aukeratu zure maila</string>
+	</dict>
+	<key>Settings</key>
+	<dict>
+		<key>music</key>
+		<string>Musika:</string>
+		<key>sound_effects</key>
+		<string>Soinua efectuak:</string>
+		<key>language</key>
+		<string>Hizkuntza:</string>
+	</dict>
+	<key>Categories</key>
+	<dict>
+		<key>title</key>
+		<string>Aukeratu zure gaia</string>
+	</dict>
+	<key>Main</key>
+	<dict>
+		<key>play</key>
+		<string>Jo egin</string>
+		<key>loading</key>
+		<string>Kargatzen...</string>
+	</dict>
+	<key>About</key>
+	<dict>
+		<key>information</key>
+		<string>eu Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque non iaculis ligula, ac dapibus quam. Nam id metus ac est tincidunt placerat. Integer pharetra aliquet aliquet. In a hendrerit mauris. Vestibulum eu tortor congue, tempus dui id, efficitur erat. Nam accumsan leo convallis, vestibulum enim vel, tempus neque. Curabitur eleifend, purus in euismod blandit, nulla orci scelerisque dolor, molestie lobortis sem neque non nisl. Etiam id blandit eros. Ut laoreet lacus eu lectus eleifend volutpat. Vivamus fermentum id tellus nec dictum. Nunc pellentesque efficitur bibendum. Nullam feugiat, nunc vel efficitur faucibus, justo orci facilisis felis, in placerat odio nisi quis neque. Aenean vel justo dapibus, imperdiet est a, vestibulum quam. Nulla facilisi. Morbi tristique justo in est venenatis, ut rhoncus ligula sollicitudin. Nam sed interdum ante.
+
+Sed eleifend luctus libero. Donec tempor molestie ultricies. Morbi et bibendum turpis. Nam feugiat pharetra neque. Nulla finibus diam purus, eget congue arcu ultrices in. Nulla mauris ipsum, elementum id massa vitae, facilisis condimentum tortor. Nam faucibus lectus sed leo pharetra, vitae condimentum neque lobortis. Ut ullamcorper lorem et interdum laoreet. Sed dapibus, ipsum nec venenatis mattis, nibh arcu posuere ipsum, nec ullamcorper odio elit vel erat. Curabitur vel laoreet dui. Suspendisse aliquet a elit eget maximus. Etiam sed tortor a eros efficitur tempus nec sed massa. Curabitur sit amet risus nulla. In placerat suscipit molestie.
+
+Curabitur tempus est non sem vehicula posuere ac ut ex. Mauris venenatis elit et egestas commodo. Morbi rutrum, quam id rhoncus lobortis, tellus mi sollicitudin nulla, at elementum neque dolor at lorem. Phasellus at mi magna. Nam mattis ligula sapien, in accumsan nunc scelerisque posuere. Suspendisse mattis urna augue, ut commodo arcu rhoncus vitae. Pellentesque lobortis ipsum sit amet urna aliquet, ut tincidunt tortor aliquet. Etiam congue pulvinar nisi non tempus. Morbi at ex ut tortor iaculis accumsan vel vel magna. Cras cursus eros sit amet malesuada tristique. Sed enim enim, commodo a nunc eu, facilisis fringilla libero. Etiam eleifend bibendum nunc, vel mollis magna imperdiet bibendum. Vivamus sed sagittis sapien, sed vehicula arcu. Pellentesque pretium nulla id nibh imperdiet, et tristique elit consequat. Duis vestibulum est sit amet est egestas, eu euismod erat tristique. Pellentesque eget dui mi.
+
+Aenean vestibulum non mi in efficitur. Quisque tincidunt, felis sed volutpat hendrerit, ex enim accumsan sem, eget egestas risus quam sed mi. Cras in turpis viverra, rutrum eros quis, interdum ex. Proin at mauris velit. In lacinia euismod nulla, ut facilisis dolor tincidunt non. Nulla facilisi. Nulla tincidunt porttitor elit sed maximus. Nullam rutrum suscipit eros, nec euismod dolor eleifend quis. Sed quis fringilla magna. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce aliquam felis in dignissim iaculis. Etiam ac lobortis dolor, in finibus nulla. Aenean eu nulla ultricies, egestas massa ut, molestie lacus.
+
+Donec lectus ante, molestie sed ligula eu, imperdiet auctor erat. Nunc eu fringilla dui. Mauris rutrum ullamcorper lacus at finibus. Donec elementum libero rutrum, imperdiet est varius, imperdiet metus. Fusce orci velit, lobortis dapibus ultrices in, ultrices eu ipsum. Fusce finibus, diam a venenatis iaculis, mi diam euismod massa, quis elementum dui risus et urna. Nunc eu ligula auctor, elementum metus a, blandit odio. Quisque varius scelerisque tempor. Sed iaculis tempor velit, in bibendum arcu consequat ac. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce pharetra est consequat vehicula auctor. Interdum et malesuada fames ac ante ipsum primis in faucibus.</string>
+		<key>title</key>
+		<string>Informazioa</string>
+	</dict>
+	<key>General</key>
+	<dict>
+		<key>back</key>
+		<string>Atzera</string>
+	</dict>
+</dict>
+</plist>
